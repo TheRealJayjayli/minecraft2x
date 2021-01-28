@@ -2,9 +2,9 @@
 An upscaling model based off [waifu2x](https://github.com/nagadomi/waifu2x) for Minecraft renders.
 
 ## Usage
-Currently, I only have the model files available. Follow the steps on the waifu2x repository for installation instructions:
+Currently, I only have the model files available. Follow the steps on the waifu2x repository for installation instructions.
 
-After installing, place the model `scale2.0x_model.t7` in a new folder `models/minecraft2x/[scale2.0x_model.t7]`
+After installing, create a new folder `models/minecraft2x/[scale2.0x_model.t7]` and place the model inside.
 
 To scale 2x, use:
 
