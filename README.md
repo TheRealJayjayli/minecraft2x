@@ -1,5 +1,5 @@
 # minecraft2x
-An AI upscaling model based off [waifu2x](https://github.com/nagadomi/waifu2x) for Minecraft renders.
+An upscaling model based off [waifu2x](https://github.com/nagadomi/waifu2x) for Minecraft renders.
 
 ## Usage
 Currently, I only have the model files available. Follow the steps on the waifu2x repository for installation instructions:
@@ -18,3 +18,4 @@ I do plan to get a version working with [waifu2x-caffe](https://github.com/lltcg
 Training renders kindly donated by:
 - Ryhida | Jackjt8
 - Parson Hogsheade Jr
+- SirioTek
